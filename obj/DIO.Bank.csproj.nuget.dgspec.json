@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Wellington Nogueira\\Documents\\GitHub\\DIO.Bank\\DIO.Bank.csproj": {}
+    "C:\\Users\\Wellington Nogueira\\Documents\\GitHub\\projetc.DIO.bank\\DIO.Bank.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Wellington Nogueira\\Documents\\GitHub\\DIO.Bank\\DIO.Bank.csproj": {
+    "C:\\Users\\Wellington Nogueira\\Documents\\GitHub\\projetc.DIO.bank\\DIO.Bank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Wellington Nogueira\\Documents\\GitHub\\DIO.Bank\\DIO.Bank.csproj",
+        "projectUniqueName": "C:\\Users\\Wellington Nogueira\\Documents\\GitHub\\projetc.DIO.bank\\DIO.Bank.csproj",
         "projectName": "DIO.Bank",
-        "projectPath": "C:\\Users\\Wellington Nogueira\\Documents\\GitHub\\DIO.Bank\\DIO.Bank.csproj",
+        "projectPath": "C:\\Users\\Wellington Nogueira\\Documents\\GitHub\\projetc.DIO.bank\\DIO.Bank.csproj",
         "packagesPath": "C:\\Users\\Wellington Nogueira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Wellington Nogueira\\Documents\\GitHub\\DIO.Bank\\obj\\",
+        "outputPath": "C:\\Users\\Wellington Nogueira\\Documents\\GitHub\\projetc.DIO.bank\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Wellington Nogueira\\AppData\\Roaming\\NuGet\\NuGet.Config",
